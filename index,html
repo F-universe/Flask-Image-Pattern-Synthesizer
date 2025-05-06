@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head><title>Image Pattern Synthesizer</title></head>
+<body>
+  <h1>Enter a keyword</h1>
+  <form method="post">
+    <input name="query" placeholder="e.g. mountain, cat..." required>
+    <button type="submit">Generate Pattern</button>
+  </form>
+</body>
+</html>
